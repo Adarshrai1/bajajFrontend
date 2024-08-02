@@ -81,7 +81,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>ABCD123</h1>
+      <h1>Bajaj Frontend</h1>
       <div className="input-section">
         <textarea
           placeholder='Enter JSON here'
